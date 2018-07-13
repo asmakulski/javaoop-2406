@@ -1,3 +1,5 @@
+/* uncomment to test
+
 package com.infoshare;
 
 
@@ -24,3 +26,4 @@ public class TestInsidePackageInheritance extends PublicClass {
     }
 
 }
+*/

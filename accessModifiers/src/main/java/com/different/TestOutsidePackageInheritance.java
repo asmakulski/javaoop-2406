@@ -1,3 +1,4 @@
+/* uncomment to test
 
 package com.different;
 
@@ -27,3 +28,4 @@ public class TestOutsidePackageInheritance extends PublicClass {
     }
 
 }
+*/

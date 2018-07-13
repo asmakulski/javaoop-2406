@@ -1,3 +1,4 @@
+/* uncomment to test
 package com.infoshare;
 
 
@@ -17,3 +18,4 @@ public class TestInsidePackageInheritanceBis extends DefaultClass {
     public void privateMeth() {}
 
 }
+*/

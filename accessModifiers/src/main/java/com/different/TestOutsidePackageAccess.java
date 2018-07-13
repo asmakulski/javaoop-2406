@@ -1,3 +1,4 @@
+/*uncomment to test
 
 package com.different;
 
@@ -13,10 +14,12 @@ public class TestOutsidePackageAccess {
     PublicClass publicClass = new PublicClass();
 
     public void testy() {
-        /*defaultClass.publicMeth();
+        */
+/*defaultClass.publicMeth();
         defaultClass.protectedMeth();
         defaultClass.defaultMeth();
-        defaultClass.privateMeth(); */
+        defaultClass.privateMeth(); *//*
+
 
         publicClass.publicMeth();
         publicClass.protectedMeth();
@@ -24,3 +27,4 @@ public class TestOutsidePackageAccess {
         publicClass.privateMeth();
     }
 }
+*/
